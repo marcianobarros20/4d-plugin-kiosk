@@ -229,6 +229,8 @@
 			<key>Layout</key>
 			<array>
 				<dict>
+					<key>BecomeActive</key>
+					<true/>
 					<key>ContentConfiguration</key>
 					<dict>
 						<key>PBXBottomSmartGroupGIDs</key>
@@ -273,8 +275,6 @@
 							<key>PBXSmartGroupTreeModuleOutlineStateSelectionKey</key>
 							<array>
 								<array>
-									<integer>2</integer>
-									<integer>1</integer>
 									<integer>0</integer>
 								</array>
 							</array>
@@ -326,10 +326,10 @@
 										<key>_historyCapacity</key>
 										<integer>0</integer>
 										<key>bookmark</key>
-										<string>D111373E174DFE7C00C1A92A</string>
+										<string>D1077BF2184347C7004ABB92</string>
 										<key>history</key>
 										<array>
-											<string>D1113735174DF99500C1A92A</string>
+											<string>D111373E174DFE7C00C1A92A</string>
 										</array>
 									</dict>
 									<key>SplitCount</key>
@@ -341,36 +341,34 @@
 							<key>GeometryConfiguration</key>
 							<dict>
 								<key>Frame</key>
-								<string>{{0, 0}, {580, 251}}</string>
+								<string>{{0, 0}, {580, 242}}</string>
 								<key>RubberWindowFrame</key>
 								<string>326 303 788 504 0 0 1440 878 </string>
 							</dict>
 							<key>Module</key>
 							<string>PBXNavigatorGroup</string>
 							<key>Proportion</key>
-							<string>251pt</string>
+							<string>242pt</string>
 						</dict>
 						<dict>
-							<key>BecomeActive</key>
-							<true/>
 							<key>ContentConfiguration</key>
 							<dict>
 								<key>PBXProjectModuleGUID</key>
 								<string>1CE0B20506471E060097A5F4</string>
 								<key>PBXProjectModuleLabel</key>
-								<string>詳細</string>
+								<string>Detail</string>
 							</dict>
 							<key>GeometryConfiguration</key>
 							<dict>
 								<key>Frame</key>
-								<string>{{0, 256}, {580, 207}}</string>
+								<string>{{0, 247}, {580, 216}}</string>
 								<key>RubberWindowFrame</key>
 								<string>326 303 788 504 0 0 1440 878 </string>
 							</dict>
 							<key>Module</key>
 							<string>XCDetailModule</string>
 							<key>Proportion</key>
-							<string>207pt</string>
+							<string>216pt</string>
 						</dict>
 					</array>
 					<key>Proportion</key>
@@ -389,9 +387,9 @@
 			</array>
 			<key>TableOfContents</key>
 			<array>
-				<string>D111373F174DFE7C00C1A92A</string>
+				<string>D1077BE818434778004ABB92</string>
 				<string>1CE0B1FE06471DED0097A5F4</string>
-				<string>D1113740174DFE7C00C1A92A</string>
+				<string>D1077BE918434778004ABB92</string>
 				<string>1CE0B20306471E060097A5F4</string>
 				<string>1CE0B20506471E060097A5F4</string>
 			</array>
@@ -530,7 +528,7 @@
 	<key>WindowOrderList</key>
 	<array>
 		<string>D11B4242174DF2E700C4FC51</string>
-		<string>/Users/miyako/Desktop/KIOSK/KIOSK.xcodeproj</string>
+		<string>/Users/miyako/github-miyako/4d-plugin-kiosk/KIOSK/KIOSK.xcodeproj</string>
 	</array>
 	<key>WindowString</key>
 	<string>326 303 788 504 0 0 1440 878 </string>
@@ -576,7 +574,7 @@
 								<key>PBXProjectModuleGUID</key>
 								<string>XCMainBuildResultsModuleGUID</string>
 								<key>PBXProjectModuleLabel</key>
-								<string>ビルド結果</string>
+								<string>Build Results</string>
 								<key>XCBuildResultsTrigger_Collapse</key>
 								<integer>1021</integer>
 								<key>XCBuildResultsTrigger_Open</key>
@@ -610,7 +608,7 @@
 			<key>TableOfContents</key>
 			<array>
 				<string>D11B4242174DF2E700C4FC51</string>
-				<string>D1113741174DFE7C00C1A92A</string>
+				<string>D1077BEA18434778004ABB92</string>
 				<string>1CD0528F0623707200166675</string>
 				<string>XCMainBuildResultsModuleGUID</string>
 			</array>
