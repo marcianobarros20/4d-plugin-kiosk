@@ -32,9 +32,9 @@ This plugin allow 4D to run as a pseudo [kiosk](http://en.wikipedia.org/wiki/Kio
 
 On Mac:
 
-[SetSystemUIMode](https://developer.apple.com/library/mac/#documentation/Carbon/Reference/Dock_Manager/Reference/reference.html) is used to
+[SetSystemUIMode](https://developer.apple.com/library/mac/#documentation/Carbon/Reference/Dock_Manager/Reference/reference.html) of [NSApplicationPresentationOptions](https://developer.apple.com/reference/appkit/nsapplicationpresentationoptions?language=objc) is used to
 
-* Hide all system UI elements (including the menu bar).
+* Hide all system UI elements (including the menu bar and **Dock**).
 * Disable the ``cmd``+``tab`` and ``cmd``+``shift``+``tab`` key sequences to switch active processes.
 * Disable the ``cmd``+``option``+``escape`` key sequence and the **Force Quit** menu item.
 * Disable the **Power** key (if present) and the **Restart**, **Shut Down**, and **Log Out** menu items in the Apple menu.
