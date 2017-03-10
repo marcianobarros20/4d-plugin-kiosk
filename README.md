@@ -35,10 +35,10 @@ On Mac:
 [SetSystemUIMode](https://developer.apple.com/library/mac/#documentation/Carbon/Reference/Dock_Manager/Reference/reference.html) is used to
 
 * Hide all system UI elements (including the menu bar).
-* Disable the Command-Tab and Command-Shift-Tab key sequences to switch the active process
-* Disable the Command-Option-Escape key sequence and the Force Quit menu item.
-* Disable the Power key (if present) and the Restart, Shut Down, and Log Out menu items in the Apple menu.
-* Disable the Hide menu item in the Application menu.
+* Disable the ``cmd``+``tab`` and ``cmd``+``shift``+``tab`` key sequences to switch active processes.
+* Disable the ``cmd``+``option``+``escape`` key sequence and the **Force Quit** menu item.
+* Disable the **Power** key (if present) and the **Restart**, **Shut Down**, and **Log Out** menu items in the Apple menu.
+* Disable the **Hide** menu item in the Application menu.
 
 On Windows:
 
