@@ -1,0 +1,1 @@
+﻿{"name":"KIOSK","id":20000,"commands":[{"theme":"KIOSK","syntax":"KIOSK SET MODE(&L)"},{"theme":"KIOSK","syntax":"KIOSK Get mode:L"}]}
