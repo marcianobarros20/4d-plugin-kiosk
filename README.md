@@ -3,17 +3,17 @@
 
 4D plugin to help 4D run as kiosk software by inhibiting certain user actions.
 
-###Platform
+### Platform
 
 | carbon | cocoa | win32 | win64 |
 |:------:|:-----:|:---------:|:---------:|
 |<img src="https://cloud.githubusercontent.com/assets/1725068/22371562/1b091f0a-e4db-11e6-8458-8653954a7cce.png" width="24" height="24" />|<img src="https://cloud.githubusercontent.com/assets/1725068/22371562/1b091f0a-e4db-11e6-8458-8653954a7cce.png" width="24" height="24" />|<img src="https://cloud.githubusercontent.com/assets/1725068/22371562/1b091f0a-e4db-11e6-8458-8653954a7cce.png" width="24" height="24" />|<img src="https://cloud.githubusercontent.com/assets/1725068/22371562/1b091f0a-e4db-11e6-8458-8653954a7cce.png" width="24" height="24" />|
 
-###Version
+### Version
 
 <img src="https://cloud.githubusercontent.com/assets/1725068/18940649/21945000-8645-11e6-86ed-4a0f800e5a73.png" width="32" height="32" /> <img src="https://cloud.githubusercontent.com/assets/1725068/18940648/2192ddba-8645-11e6-864d-6d5692d55717.png" width="32" height="32" />
 
-##Syntax
+## Syntax
 
 ```
 mode:=KIOSK Get mode
@@ -24,7 +24,7 @@ Parameter|Type|Description
 ------------|------------|----
 mode|INT32|``KIOSK_ON`` (``1``) or ``KIOSK_OFF`` (``0``)
 
-##About
+## About
 
 This plugin allow 4D to run as a pseudo [kiosk](http://en.wikipedia.org/wiki/Kiosk_software) software.
 
